@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://tannerheimsch.github.io",
   "name": "portfolio-3",
   "version": "0.1.0",
   "private": true,
@@ -26,10 +26,13 @@
     "@types/jest": "^27.4.0",
     "@types/node": "^16.11.22",
     "@types/react": "^17.0.39",
-    "@types/react-dom": "^17.0.11"
+    "@types/react-dom": "^17.0.11",
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
