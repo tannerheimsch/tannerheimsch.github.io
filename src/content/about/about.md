@@ -1,5 +1,5 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
+I am a budding Data Analyst from Eau Claire, Wisconsin looking to exert myself into a fully-driven career one data project at a time.
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
+My love for exploring, analyzing, and interpreting data led me to pursue a career as a Data Analyst. I am highly proficient in **MySQL**, a beginner in **JavaScript**, and **Python**, and can seamlessly plug into **Tableau** and **PowerBI** to drive informed decision-making and provide real-time insights.
 
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+I am always seeking out new challenges to learn and grow both personally and professionally. Whether it's searching for rare vinyl gems or conquering new running trails, I am eager to push myself beyond my comfort zone. My commitment to excellence and passion for data fuels my excitement to apply my skills to projects that make a real-world impact.

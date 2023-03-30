@@ -4,12 +4,12 @@ import { PrimaryColors, PrimaryDarkColors } from "theme/colors/Colors";
 import { components } from "theme/component-styles/ComponentStyles";
 
 const config: ThemeConfig = {
-    cssVarPrefix: "hp",
+    cssVarPrefix: "th",
 };
 
 const fonts = {
-    body: "'Urbanist', sans-serif",
-    heading: "'Playfair Display', serif;",
+    body: "'Roobert', sans-serif",
+    heading: "'Roobert', serif;",
 };
 
 const colors = {

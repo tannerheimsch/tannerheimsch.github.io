@@ -19,7 +19,7 @@ const headerStyles = {
 export const Footer: FC = () => {
     return (
         <>
-            <PageHeader label="SAY HI" />
+            <PageHeader label="Contact Me" />
             <Flex pb="2" gap="3" overflow="hidden" alignItems="center">
                 <Heading {...headerStyles} onClick={onMailTo} fontSize="2xl">
                     {configs.common.email}
@@ -39,8 +39,6 @@ export const Footer: FC = () => {
                 justifyContent={{ base: "center", md: "space-between" }}
                 direction={{ base: "column", md: "row" }}
             >
-                <Text>This site is hand-crafted, with care by me.</Text>
-                <Text>&copy; {new Date().getFullYear()} All rights reserved.</Text>
             </Flex>
         </>
     );
