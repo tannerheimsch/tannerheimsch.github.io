@@ -7,7 +7,7 @@
         "demo": "https://www.trackcta.com/",
         "github": "https://github.com/hrishikeshpaul/trackcta",
         "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
+        "description": "An insightful and interactive dashboard built in Looker Studio. Derived from a custom relational database designed to fulfill the needs of a hypothetical pizza company..",
         "image": "/assets/featured-projects/trackcta.webp",
         "jpg": "/assets/featured-projects/trackcta.jpeg"
     },

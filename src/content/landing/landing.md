@@ -1,10 +1,10 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+Welcome! 👋 I am Data Analyst eager to hone my expertise by building my portfolio with various data implementation and system analysis projects. I am currently a full-time _IT-Data & Analytics Specialist_ student at Chippewa Valley Technical College, and will look to pursue my BS in Computer Science at the University of Wisconsin-Eau Claire.
 
-I'm currently working with,
+I'm currently working with:
 
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+-   MySQL
+-   Python
+-   Tableau
+-   PowerBI
+-   Microsoft Report Builder
+-   Microsoft Excel
