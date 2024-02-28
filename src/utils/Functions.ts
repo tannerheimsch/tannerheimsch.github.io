@@ -9,3 +9,7 @@ export const onResumeOpen = () => {
 export const onMailTo = () => {
     open("mailto:" + configs.common.email);
 };
+
+export const onSummaryOpen = () => {
+    open(configs.common.courseSummary);
+};
