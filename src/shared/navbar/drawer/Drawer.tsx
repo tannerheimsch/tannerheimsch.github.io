@@ -21,7 +21,7 @@ import { ColorModeButton } from "shared/color-mode-button/ColorModeButton";
 import { AboutPageId, WorkPageId } from "utils/useScroll";
 import { MenuIcon } from "utils/Icons";
 import { Socials } from "shared/socials/Socials";
-import { onResumeOpen } from "utils/Functions";
+import { onResumeOpen, onSummaryOpen } from "utils/Functions";
 
 interface Props extends StyleProps {
     onSectionClick: (section: string) => void;
@@ -106,6 +106,17 @@ export const MenuDrawer: FC<Props> = ({ onSectionClick, currentPage, ...props })
                                 fontSize="2xl"
                             >
                                 Resume
+                            </Button>
+                            <Button
+                                variant="link"
+                                color="primary.500"
+                                onClick={onSummaryOpen}
+                                data-aos="fade"
+                                data-aos-delay="400"
+                                fontWeight="600"
+                                fontSize="2xl"
+                            >
+                                Course Summary
                             </Button>
                         </VStack>
                         <Flex justifyContent="center" mt="16">

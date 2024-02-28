@@ -9,14 +9,6 @@
                 "GPA: 4.0",
                 "Courses: Database I/II, Python, Bus Intelligence/Visualization, Systems Analysis and Design, Project Management"
             ]
-        },
-        {
-            "id": "edu-2",
-            "school": "Grafton High School",
-            "degree": "",
-            "duration": "Sept 2011 - June 2015",
-            "content": [
-            ]
         }
     ],
     "experiences": [
@@ -54,41 +46,35 @@
     ],
     "skills": [
         {
-            "title": "Programming",
-            "tools": [
-                "Python",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Web",
-            "tools": ["HTML", "TypeScript"]
-        },
-        {
             "title": "Databases",
-            "tools": ["MySQL", "Google BigQuery", "Microsoft SQL Management Studio"]
+            "tools": ["Google Big Query", "Microsoft Access", "Microsoft SQL Management Studio", "MySQL", "SQLite", "T-SQL"]
         },
-
         {
-            "title": "OS & Tools",
+            "title": "ETL Tools",
+            "tools": ["Alteryx Designer", "Microsoft PowerQuery"]
+        },
+        {
+            "title": "Operating Systems",
             "tools": ["MacOS", "Linux", "Ubuntu", "Windows"]
         },
         {
-            "title": "Design & System Life Cycle",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "Microsoft Project",
-                "Adobe Photoshop"
-            ]
+            "title": "Machine Learning",
+            "tools": ["Anaconda", "Jupyter Notebook", "Pandas"]
+            },
+        {
+            "title": "Programming",
+            "tools": ["JavaScript", "Python", "SQL"]
+        },
+        {
+            "title": "System Life Cycle & Design",
+            "tools": ["Surveys","System Design", "Microsoft Project","Adobe Photoshop"]
+        },
+        {
+            "title": "Web",
+            "tools": ["HTML", "CSS", "React","TypeScript"]
         }
     ],
     "blog": [
-        {
-            "id": "",
-            "title": "",
-            "link": ""
-        },
         {
             "id": "",
             "title": "",

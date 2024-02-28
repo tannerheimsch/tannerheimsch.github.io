@@ -59,8 +59,8 @@ export const Navbar: FC = () => {
                             onClick={onSummaryOpen} 
                             data-aos="fade" 
                             data-aos-delay="400"
-                            color="orange">
-                                Courses Summary
+                            color="primary.500">
+                                Course Summary
                                 
                             </Button>
 
