@@ -11,5 +11,5 @@ export const onMailTo = () => {
 };
 
 export const onSummaryOpen = () => {
-    open(configs.common.courseSummary);
+    window.location.href = configs.common.courseSummary;
 };
