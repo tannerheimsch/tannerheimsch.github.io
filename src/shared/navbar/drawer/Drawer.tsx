@@ -75,7 +75,7 @@ export const MenuDrawer: FC<Props> = ({ onSectionClick, currentPage, ...props })
                                 fontWeight="600"
                                 fontSize="2xl"
                             >
-                                Work
+                                Projects
                             </Button>
                             <Button
                                 variant="link"
